@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "build": "esbuild --bundle --outfile=out.js --sourcemap=inline out.ts"
+    },
+    "dependencies": {
+        "esbuild": "^0.24.0"
+    }
+}
