@@ -1,6 +1,6 @@
 1. Open project in VSCode
 2. Add conditional breakpoint and a simple breakpoint in `out.ts`
-3. Open `index.html` in your browser
+3. Debug `out.js` or open `index.html` in your browser
 
 If needed javascript file can be rebuilt by:
 
